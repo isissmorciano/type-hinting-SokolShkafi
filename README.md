@@ -23,3 +23,6 @@ L'eta e' calcolata in modo casuale
 La funzione restituisce una stringa formattata nel seguente modo:
     "nome ha eta anni."
 descrizione_casuale()
+
+
+.
